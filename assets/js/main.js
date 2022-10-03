@@ -1,3 +1,3 @@
-var name = prompt("ім'я користувача", '');
+var name = prompt("Iм'я користувача", '');
 var result = 'Hello, ' + name + '! How are you?';
 alert(result);
